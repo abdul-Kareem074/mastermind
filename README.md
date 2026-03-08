@@ -5,5 +5,4 @@ This is built using object oriented programming structure and uses a module, thr
 
 If you have Ruby installed, you can download the ruby.rb file and run it locally, or play it online here: https://replit.com/@BenJ8/mastermind#main.rb 
 
-Game play still:
-![game still](./Images/mastermind.png?raw=true "")
+
